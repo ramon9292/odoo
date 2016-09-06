@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################################################################
 # Script for Installation: ODOO Saas4/Trunk server on Ubuntu 14.04 LTS
-# Author: Yenthe Van Ginneken
+# Author: 
 #-------------------------------------------------------------------------------
 #  
 # This script will install Odoo on your Ubuntu 14.04 server. It can install multiple Odoo instances
